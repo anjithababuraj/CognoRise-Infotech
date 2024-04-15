@@ -10,9 +10,9 @@ Skills
 -Data Wrangling: Data cleaning, Data preprocessing
 
 Projects
-Task1-Breast Cancer Classification ()-Model to classify breast cancer tumors as malignant or benign using features extracted from mammograms.
-Task2-House Price Prediction ()-Model to predict house price based on features like area, number of bedrooms, and location.
-Task3-Spam Email Detection ()-Model to detect whether the email either spam or not spam.
+Task1-Breast Cancer Classification (https://github.com/anjithababuraj/CognoRise-Infotech/blob/main/TASK_1.ipynb)-Model to classify breast cancer tumors as malignant or benign using features extracted from mammograms.
+Task2-House Price Prediction (https://github.com/anjithababuraj/CognoRise-Infotech/blob/main/TASK_2.ipynb)-Model to predict house price based on features like area, number of bedrooms, and location.
+Task3-Spam Email Detection (https://github.com/anjithababuraj/CognoRise-Infotech/blob/main/TASK_3.ipynb)-Model to detect whether the email either spam or not spam.
 
 Contact Me
 -Email: anjithaattupurath@gmail.com
